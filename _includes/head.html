@@ -1,0 +1,44 @@
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- Open Graph -->
+  {% if page.layout == "default" %}
+  <meta property="og:title" content="{{site.title}}" />
+  {% else %}
+  <meta property="og:title" content="{{page.title}} | {{site.title}}" />
+  {% endif %}
+  <meta property="og:description" content="{{site.description}}" />
+  <meta property="fb:admins" content="elotroalex" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://wobd.blackbeyonddata.org/" />
+  <meta property="fb:app_id" content="589495744558280" />
+  <meta property="og:image" content="https://wobd.blackbeyonddata.org/images/open-graph.png" />
+  <meta property="og:image:width" content="578" />
+  <meta property="og:image:height" content="578" />
+
+  <meta property="twitter:url" content="https://wobd.blackbeyonddata.org/" />
+  <meta property="twitter:title" content="{{site.title}}" />
+  <meta property="twitter:description" content="{{site.description}}" />
+  <meta property="twitter:image" content="https://wobd.blackbeyonddata.org/images/open-graph.png" />
+  <meta property="twitter:domain" content="Who Owns Black Data" />
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:creator" content="@elotroalex" />
+  <meta property="twitter:site" content="@elotroalex" />
+
+  <!-- Page Info -->
+
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <link rel="icon" type="image/x-icon" href="{{site.baseurl}}/images/favicon.ico" />
+
+  <link rel="apple-touch-icon" sizes="180x180" href="{{site.baseurl}}/images/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="{{site.baseurl}}/images/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="{{site.baseurl}}/images/favicon-16x16.png" />
+  <link rel="manifest" href="{{site.baseurl}}/images/site.webmanifest" />
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+
+  <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}" />
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}" />
+</head>
