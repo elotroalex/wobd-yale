@@ -3,6 +3,8 @@ layout: default
 title: Travel
 ---
 
+# Travel to New Haven
+
 Travel to New Haven can be tricky. Below are some of the most common ways to get here, along with some tips and tricks.
 
 ## Flying

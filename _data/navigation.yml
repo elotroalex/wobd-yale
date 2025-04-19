@@ -1,10 +1,10 @@
-- title: Download our Save the Date Card
-  url: /docs/wobd-yale-save-the-date-card.pdf
+# - title: Download our Save the Date Card
+#   url: /docs/wobd-yale-save-the-date-card.pdf
 # - title: The Prelude
 #   url: /prelude/
-# - title: The People
-#   url: /people/
-# - title: Schedule
-#   url: /schedule/
-# - title: Travel
-#   url: /travel/
+- title: The People
+  url: /people/
+- title: Schedule
+  url: /schedule/
+- title: Travel
+  url: /travel/
