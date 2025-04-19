@@ -3,56 +3,42 @@ layout: default
 title: Travel
 ---
 
-# Travel
+Travel to New Haven can be tricky. Below are some of the most common ways to get here, along with some tips and tricks.
 
-Baltimore, Maryland is situated in the heart of the Mid-Atlantic region, approximately 40 miles northeast of Washington, D.C., and 60 miles southwest of Philadelphia. Our vibrant city of over 600,000 residents boasts a lively downtown area featuring parks, shops, museums, and restaurants, all within easy reach of beaches, hiking trails, and charming neighboring towns.
+## Flying
 
-## Hotel Reservations
+If you’re coming from outside the Northeast, flying is the best option. There are three major airports that service New Haven:
 
-The recommended hotel for Who Owns Black Data: Slavery & Data is [The Study at Johns Hopkins](https://www.thestudyatjohnshopkins.com). To make a reservation at The Study, please call the number is 1-410-243-0030.
+1. **Bradley International Airport (BDL)**: Located in Hartford, about 45 minutes from New Haven. It’s the closest major airport and has a good number of flights.
+2. **Newark Liberty International Airport (EWR)**: Located in Newark, New Jersey, about 1.5 hours from New Haven. It has a larger number of flights and is often cheaper than Bradley.
+3. **John F. Kennedy International Airport (JFK)**: Located in New York City, about 2 hours from New Haven. It has the most flights, but it’s also the farthest away.
 
-## Driving Directions
+If we are covering your travel expenses, we will reimburse you for all travel costs including taxis and shared rides to and from the airport. Please refer to [Yale's 3301 Travel on University Business](https://your.yale.edu/policies-procedures/policies/3301-travel-university-business) when arranging travel. The most important thing to note is that we can only reimburse you for coach travel.
 
-### From I-95 (southbound) or from I-695 (the Baltimore Beltway)
+## Train
 
-Take the beltway toward Towson to exit 25. Take Charles Street south for about 6 miles. When Charles Street splits a block after Loyola College and Cold Spring Lane, take a slight left onto St. Paul. Continue southbound on St Paul for about 1.2 miles. Take a right on 33rd Street. Take a right on Charles Street. The dormitory is at the corner of 33rd and Charles Street.
+If you’re coming from the North East Coast, the easiest way by far to get here is by train. There are two options:
 
-### From I-95 (northbound)
+1. **Amtrak**: The Amtrak train from New York City to New Haven is a direct route and takes about 2 hours. You can book tickets on the [Amtrak website](https://www.amtrak.com).
+2. **Metro North**: The Metro North train from Grand Central Station in New York City to New Haven Union Station is also a direct route and takes about 2 hours. You can book tickets on the [Metro North website](https://new.mta.info/mnr).
 
-Exit at I-395, then take the exit to Martin Luther King Jr. Blvd. Take King Boulevard until it ends at Howard Street (remain in one of the middle lanes of King Boulevard to avoid a premature forced right or left turn) and proceed about 2 miles. At 28th Street, take a right. Take a left on Charles St. and continue to 3301 N. Charles St.
+If we are covering your travel expenses, please keep all receipts for your train travel, as we will reimburse you for the cost of the ticket. If you are traveling by train, please book a main cabin class ticket. We cannot reimburse you for first class or business.
 
-### From Maryland 295 (the Baltimore-Washington Parkway)
+## Driving
 
-Entering Baltimore, the parkway becomes Russell Street. Stay on Russell Street to Pratt St. Take a right on Pratt St. Take a left on Charles St. and continue approximately 3 miles to 3301 N. Charles St.
+If you’re really close by, say in New York City or Rhode Island, driving might be an option too. There are two main highways that lead to New Haven:
 
-### From I-83 (southbound, the Jones Falls Expressway)
-
-Take the 28th Street exit to 28th Street east. Turn left on Charles Street. and continue to 3301 N. Charles St.
+1. **I-95**: This is the main highway that runs along the East Coast. It’s the fastest route from New York City and Rhode Island.
+2. **I-91**: This highway runs north-south through Connecticut and is the best route from Hartford and Springfield, Massachusetts.
 
 ## Parking
 
-Due to our location in an urban environment, we cannot guarantee
-available parking.
+Parking in New Haven can be a bit tricky, especially during the day. Here are some tips:
 
-_On-street metered parking_ is available almost everywhere. *Off-street parking* is also available nearby. The Chapel-York Garage (65 Grove Street) is a private parking garages located within walking distance of the Humanities Quadrangle.
+1. **Street Parking**: There is metered street parking available throughout the city. Be sure to check the signs for hours and rates.
+2. **Parking Garages**: There are several parking garages close to your hotel. The [Chapel-York Garage](https://www.google.com/maps/place/Chapel-York+Garage,+150+York+St,+New+Haven,+CT+06511/data=!4m2!3m1!1s0x89e7d9b2c63b9e1d:0xc8ac1e7135aaa9e0?sa=X&ved=1t:242&ictx=111) is right in front of it, and we recommend it.
+3. **Parking Apps**: The main parking app in New Haven is [Park New Haven](https://www.parknewhaven.com). You can use it to find available parking spots, pay for parking, and extend your time if needed.
 
-Visitor parking is available in several locations around campus. Visit [Transportation Services](https://jhfre.jhu.edu/ts/parking) for more information about parking locations and rates. Please allow time to park prior to your visit.
+## Hotel Reservations
 
-## By Train or Bus
-
-Scott-Bates Commons (formerly Charles Commons) is approximately 2 miles from the train station. Transportation to and from the dormitory facilities is available through the [BWI Shuttle Service](http://www.bwiairport.com/en/travel/ground-transportation/trans/supershuttle) and [Taxi Service](http://www.bwiairport.com/en/travel/ground-transportation/trans/taxi). [Amtrak](https://www.amtrak.com/home.html) provides train service to Baltimore from New York City, Boston, Newark, Philadelphia, and Washington, D.C., at prices that are competitive with air travel. Once at the train station, you can take a University Shuttle to campus. The hotel is right across the shuttle stop on Charles Street ([Stop No.7](https://jhfre.jhu.edu/wp-content/uploads/2023/08/Copy-of-HW-PB-JHMI.pdf)). Another option is a taxi or car ride directly to The Study.
-
-## By Airplane
-
-### Baltimore/Washington International Thurgood Marshall Airport
-
-This is probably the best option for national flights. BWI is approximately a 45-minute drive to JHU. The airport is served by all major domestic carriers and is a hub for Southwest Airlines. Once you arrive, you have several transportation options to get to The Study.
-
-- [Super Shuttle](http://www.supershuttle.com/) serving BWI, Reagan/National and Dulles.
-- [The Airport Shuttle](http://www.theairportshuttle.com/) serving BWI, Reagan/National and Dulles.
-- [MTA/Baltimore Light Rail](https://mta.maryland.gov/light-rail) serving BWI in a limited capacity.
-- Uber or Lyft, or taxi services are available at the airport.
-
-### Dulles International Airport
-
-For international flights, you might want to consider IAD. IAD is about a 90-minute drive to campus. The airport is served by all major domestic and international carriers.
+The recommended hotel for Who Owns Black Data II is [The Study at Yale](https://www.thestudyatyale.com/). It’s located at 1157 Chapel Street, New Haven, CT 06511, and is within walking distance of the conference venue, [The Humanities Quadrangle](https://www.google.com/maps/place/Humanities+Quadrangle/data=!4m2!3m1!1s0x0:0xaaa71806a246b6b5?sa=X&ved=1t:2428&ictx=111) at Yale University.
