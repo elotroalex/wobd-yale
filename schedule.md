@@ -8,7 +8,7 @@ permalink: /schedule/
 
 <h3 class="day-section">Pre-Symposium Events</h3>
 
-❖ Location: Humanities Quadrangle 134 | [320 York Street](https://www.google.com/maps/place/Humanities+Quadrangle/@41.3121531,-72.9295349,309m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89e7d9dc18fef4f3:0xaaa71806a246b6b5!8m2!3d41.3121531!4d-72.9295349!16s%2Fg%2F11nfpmhq5f?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D) ❖
+❖ Location: Humanities Quadrangle 134 ❖ [320 York Street](https://www.google.com/maps/place/Humanities+Quadrangle/@41.3121531,-72.9295349,309m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89e7d9dc18fef4f3:0xaaa71806a246b6b5!8m2!3d41.3121531!4d-72.9295349!16s%2Fg%2F11nfpmhq5f?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D) ❖
 
 <br>
 
@@ -18,7 +18,7 @@ Welcome x Lunch
 
 #### 2pm--4pm
 
-(Invite Only) "Who Owns Black Data?" ❖ Slavery and Data Ethics White Paper Write-In Session
+(Invite Only) "Who Owns Black Data?" ❖ Slavery and Data Ethics White Paper Write-In Session ❖ Data Curation Exercise
 
 #### 4:00pm--5:00pm (not confirmed)
 
@@ -36,7 +36,7 @@ Break for the day.
 
 <h3 class="day-section">Public Symposium</h3>
 
-❖ Location: Humanities Quadrangle 136 | [320 York Street](https://www.google.com/maps/place/Humanities+Quadrangle/@41.3121531,-72.9295349,309m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89e7d9dc18fef4f3:0xaaa71806a246b6b5!8m2!3d41.3121531!4d-72.9295349!16s%2Fg%2F11nfpmhq5f?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D) ❖
+❖ Location: Humanities Quadrangle 136 ❖ [320 York Street](https://www.google.com/maps/place/Humanities+Quadrangle/@41.3121531,-72.9295349,309m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89e7d9dc18fef4f3:0xaaa71806a246b6b5!8m2!3d41.3121531!4d-72.9295349!16s%2Fg%2F11nfpmhq5f?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D) ❖
 
 <br>
 
@@ -79,10 +79,10 @@ Moderator: **Alexandre White** (Johns Hopkins University)
 
 <p class="panel-name">Black Kinship & AI</p>
 
-- Kim Gallon (Brown University)
-- Christopher Dancy (Penn State University)
-- Nadejda Webb (Johns Hopkins University)
-- Jonathan Baynes (EINDEVR)
+- **Kim Gallon** (Brown University)
+- **Christopher Dancy** (Penn State University)
+- **Nadejda Webb** (Johns Hopkins University)
+- **Jonathan Baynes** (EINDEVR)
 
 Moderator: **Jessica Marie Johnson** (Johns Hopkins University)
 
