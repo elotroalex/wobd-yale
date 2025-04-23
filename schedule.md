@@ -53,7 +53,6 @@ Welcome remarks
 <p class="panel-name">Panel 1: Archival Reparations</p>
 
 - **Kathe Hambrick** (Amistad Research Center)
-- **Benjamin Talton** (Moorland-Springarn at Howard University)
 - **Dorothy Berry** (Smithsonian National Museum of African American History and Culture)
 - **Connie Bell** (Decolonizing the Archive)
 - **Cheryl Beredo** (Yale Beinecke Rare Book and Manuscript Library)
@@ -105,7 +104,7 @@ Coming together for a dialogue on the day’s events.
 - **Tamara Lanier** (descendant of Renty, suing Harvard over the Agassiz prints)
 - **Marisa Parham** (University of Maryland)
 - **Alondra Nelson** (Institute for Advanced Study)
-- **Yeshambeit Milner** (Data for Black Lives)
+- **Yeshimabeit Milner** (Data for Black Lives)
 
 With an introduction by **Kim Gallon** (Brown University)
 
