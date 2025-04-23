@@ -102,7 +102,7 @@ Coming together for a dialogue on the day’s events.
 
 <p class="panel-name">Keynote Dialogue</p>
 
-- **Tamara Lanier** (descendant of Renty, suing Harvard over the Agassiz prints)
+- **Tamara Lanier** (Author and Activist)
 - **Marisa Parham** (University of Maryland)
 - **Alondra Nelson** (Institute for Advanced Study)
 - **Yeshambeit Milner** (Data for Black Lives)
