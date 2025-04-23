@@ -316,6 +316,10 @@ h2::before {
   @extend %clearfix !optional;
 }
 
+div.fixed-footer img {
+  padding: 5px;
+}
+
 .footer-col {
   float: left;
   margin-bottom: calc($spacing-unit / 2);
