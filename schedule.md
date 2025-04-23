@@ -105,6 +105,7 @@ Coming together for a dialogue on the day’s events.
 - **Tamara Lanier** (descendant of Renty, suing Harvard over the Agassiz prints)
 - **Marisa Parham** (University of Maryland)
 - **Alondra Nelson** (Institute for Advanced Study)
+- **Yeshambeit Milner** (Data for Black Lives)
 
 With an introduction by **Kim Gallon** (Brown University)
 
