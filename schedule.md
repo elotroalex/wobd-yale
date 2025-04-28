@@ -18,7 +18,9 @@ Welcome x Lunch
 
 #### 2pm--4pm
 
-(Invite Only) "Who Owns Black Data?" ❖ Slavery and Data Ethics White Paper Write-In Session ❖ Data Curation Exercise
+_Humanities Quadrangle 134_
+
+(By Invitation Only) "Who Owns Black Data?" ❖ Slavery and Data Ethics White Paper Write-In Session ❖ Data Curation Exercise
 
 #### 4:00pm--5:00pm (not confirmed)
 
@@ -50,14 +52,14 @@ Welcome remarks
 
 #### 10:30am--12:00pm
 
-<p class="panel-name">Panel 1: Archival Reparations</p>
+<p class="panel-name">Archival Reparations</p>
 
 - **Kathe Hambrick** (Amistad Research Center)
 - **Dorothy Berry** (Smithsonian National Museum of African American History and Culture)
 - **Connie Bell** (Decolonizing the Archive)
 - **Cheryl Beredo** (Yale Beinecke Rare Book and Manuscript Library)
 
-Moderator: **Alex Gil** (Yale Department of Spanish and Portuguese)
+Moderator: **Marlene Daut** (Yale Department of French)
 
 ### 12pm--1:00pm
 
@@ -97,7 +99,7 @@ Coming together for a dialogue on the day’s events.
 
 <p class="panel-name">Reception ❖ Dramatic Performance</p>
 
-#### 6:30pm--7:30pm
+#### 6:30pm--7:45pm
 
 <p class="panel-name">Keynote Dialogue</p>
 
@@ -108,7 +110,7 @@ Coming together for a dialogue on the day’s events.
 
 With an introduction by **Kim Gallon** (Brown University)
 
-#### 7:30pm
+#### 7:45pm
 
 A parting word of gratitude and fighting hope.
 
