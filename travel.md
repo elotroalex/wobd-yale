@@ -11,11 +11,12 @@ Travel to New Haven can be tricky. Below are some of the most common ways to get
 
 If you’re coming from outside the Northeast, flying is the best option. There are three major airports that service New Haven:
 
-1. **Bradley International Airport (BDL)**: Located in Hartford, about 45 minutes from New Haven. It’s the closest major airport and has a good number of flights.
-2. **Newark Liberty International Airport (EWR)**: Located in Newark, New Jersey, about 1.5 hours from New Haven. It has a larger number of flights and is often cheaper than Bradley.
-3. **John F. Kennedy International Airport (JFK)**: Located in New York City, about 2 hours from New Haven. It has the most flights, but it’s also the farthest away.
-
-If we are covering your travel expenses, we will reimburse you for all travel costs including taxis and shared rides to and from the airport. Please refer to [Yale's 3301 Travel on University Business](https://your.yale.edu/policies-procedures/policies/3301-travel-university-business) when arranging travel. The most important thing to note is that we can only reimburse you for coach travel.
+1. **Bradley International Airport (BDL)**: Located in Hartford, about 45 minutes from New Haven. It’s the closest major airport and has a good number of flights. If you come to Bradly, you can take a taxi or a shared ride service like Uber or Lyft to get to New Haven. The ride will cost around $50-$70.
+2. **Newark Liberty International Airport (EWR)**: Located in Newark, New Jersey, about 1.5 hours from New Haven. It has a larger number of flights and is often cheaper than Bradley. If you come to Newark, you can take an Amtrak train from the airport to New Haven. The train ride takes about 2.5 hours and costs around $30-$40.
+3. **John F. Kennedy International Airport (JFK)**: Located in New York City, about 2 hours from New Haven. It has the most flights, but it’s also the farthest away. If you come to JFK, you can take the AirTrain to Jamaica Station, then transfer to the Long Island Rail Road (LIRR) to Grand Central in Manhattan. From there, you can take a Metro North train to New Haven. The total travel time is about 3 hours and costs around $40–$50.
+   <br>
+   <br>
+   If we are covering your travel expenses, we will reimburse you for all travel costs including trains, taxis and shared rides to and from the airport. Please refer to [Yale's 3301 Travel on University Business](https://your.yale.edu/policies-procedures/policies/3301-travel-university-business) when arranging travel. The most important thing to note is that we can only reimburse you for coach travel.
 
 ## Train
 
@@ -23,8 +24,9 @@ If you’re coming from the North East Coast, the easiest way by far to get here
 
 1. **Amtrak**: The Amtrak train from New York City to New Haven is a direct route and takes about 2 hours. You can book tickets on the [Amtrak website](https://www.amtrak.com).
 2. **Metro North**: The Metro North train from Grand Central Station in New York City to New Haven Union Station is also a direct route and takes about 2 hours. You can book tickets on the [Metro North website](https://new.mta.info/mnr).
-
-If we are covering your travel expenses, please keep all receipts for your train travel, as we will reimburse you for the cost of the ticket. If you are traveling by train, please book a main cabin class ticket. We cannot reimburse you for first class or business.
+   <br>
+   <br>
+   If we are covering your travel expenses, please keep all receipts for your train travel, as we will reimburse you for the cost of the ticket. If you are traveling by train, please book a main cabin class ticket. We cannot reimburse you for first class or business.
 
 ## Driving
 

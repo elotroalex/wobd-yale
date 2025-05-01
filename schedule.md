@@ -22,7 +22,7 @@ _Humanities Quadrangle 134_
 
 (By Invitation Only) "Who Owns Black Data?" ❖ Slavery and Data Ethics White Paper Write-In Session ❖ Data Curation Exercise
 
-#### 4:00pm--5:00pm (not confirmed)
+#### 4:00pm--5:00pm
 
 Visit to the Beinecke Rare Book and Manuscript Library.
 
